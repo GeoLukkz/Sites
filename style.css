@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    font-family: fantasy;
+
+}
+
+.navbar ul {
+list-style-type: none;
+background-color: rgb(95, 95, 95);
+padding: 0px;
+margin: 0px;
+overflow: hidden;
+}
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover {
+    background-color: rgb(68, 68, 68);
+
+}
+.navbar li {
+    float: left;
+}
+body {
+    margin: 0px;
+}
+main {
+    margin: 20px;
+}
+
+.img {
+    width: 170px;
+    position: relative;
+    top: -270px;
+    
+}
+.contactpng {
+width: 200px;
+position: relative;
+top: -270px;
+left: -30px;
+}
